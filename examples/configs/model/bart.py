@@ -1,9 +1,10 @@
 from transformers import BartForConditionalGeneration, AutoTokenizer
-
+import torch
 
 def load_model(model_path: str, device_map: str):
     model = BartForConditionalGeneration.from_pretrained(
-        model_path, trust_remote_code=True, device_map=device_map
+        model_path, trust_remote_code=True, device_map=device_map,
+        torch_dtype=torch.bfloat16 
     )
     model.eval()
 

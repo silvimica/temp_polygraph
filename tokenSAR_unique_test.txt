@@ -1,0 +1,2800 @@
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+: : Friday. The French word for Friday is "vendredi," which comes from the
+Removed token: Answer
+Similarity: 0.9399387836456299
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question What is the capital of the Indian state of Tamil Nadu?
+Answerchennai
+
+Question Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answerprince caspian
+
+Question Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answervauxhall
+
+Question In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answercountryfile
+
+Question Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answerelectromagnetic transmissions
+
+Question Vendredi is French for which day of the week?
+Answer Answer Friday. The French word for Friday is "vendredi," which comes from the
+Removed token: :
+Similarity: 0.8842803835868835
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer:. The French word for is "vendredi," which comes from the
+Removed token: Friday
+Similarity: 0.8879285454750061
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by CS Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday The French word for Friday is "vendredi," which comes from the
+Removed token: .
+Similarity: 0.9527927041053772
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. French word for Friday is "vendredi," which comes from the
+Removed token: The
+Similarity: 0.9540872573852539
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is  for which day of the week?
+Answer: Answer: Friday. The word for Friday is "vendredi," which comes from the
+Removed token: French
+Similarity: 0.9434324502944946
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French for Friday is "vendredi," which comes from the
+Removed token: word
+Similarity: 0.9532230496406555
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search  Extra-Terrestrial Intelligence (SETI) is the collective name  a number of activities to search  extra-terrestrial life using scientific methods to search  what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French  which day of the week?
+Answer: Answer: Friday. The French word Friday is "vendredi," which comes from the
+Removed token: for
+Similarity: 0.9519455432891846
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer:. The French word for is "vendredi," which comes from the
+Removed token: Friday
+Similarity: 0.8879285454750061
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What  the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lew?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI)  the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmsions
+
+Question: Vendredi  French for which day of the week?
+Answer: Answer: Friday. The French word for Friday "vendredi," which comes from the
+Removed token: is
+Similarity: 0.9478176236152649
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday isvendredi," which comes from the
+Removed token: "
+Similarity: 0.9521897435188293
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Moano' range of ans and mini-buses?
+Answer:auxhall
+
+Question: In which BBC magazine style TV programme do John Craen, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collectie name for a number of actiities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "endredi," which comes from the
+Removed token: v
+Similarity: 0.9178640246391296
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vredi," which comes from the
+Removed token: end
+Similarity: 0.9418650269508362
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendi," which comes from the
+Removed token: red
+Similarity: 0.9315112233161926
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Queston: What s the captal of the Indan state of Taml Nadu?
+Answer:chenna
+
+Queston: Who rules Narna followng the regn of Hgh Kng Peter n the Chroncles of Narna seres by C.S. Lews?
+Answer:prnce caspan
+
+Queston: Whch motor manufacturer bulds the 'Movano' range of vans and mn-buses?
+Answer:vauxhall
+
+Queston: In whch BBC magazne style TV programme do John Craven, Jula Bradbury and Matt Baker take part?
+Answer:countryfle
+
+Queston: Search for Extra-Terrestral Intellgence (SETI) s the collectve name for a number of actvtes to search for extra-terrestral lfe usng scentfc methods to search for what, specfcally?
+Answer:electromagnetc transmssons
+
+Queston: Vendred s French for whch day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendred," which comes from the
+Removed token: i
+Similarity: 0.6068093776702881
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi which comes from the
+Removed token: ,"
+Similarity: 0.9513627886772156
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In  BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for  day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," comes from the
+Removed token: which
+Similarity: 0.9518819451332092
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which from the
+Removed token: comes
+Similarity: 0.9524692296981812
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes the
+Removed token: from
+Similarity: 0.9498741030693054
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is  capital of  Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following  reign of High King Peter in  Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds  'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is  collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of  week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from
+Removed token: the
+Similarity: 0.9524206519126892
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the ndian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: n which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial ntelligence (SET) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: 'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: I
+Similarity: 0.9465453028678894
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the Movano range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatchers nickname was the (What?) Lady?
+Answer: Im sorry for the mistake in my previous response. Margaret Thatchers nickname
+Removed token: '
+Similarity: 0.9515935182571411
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tail Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which otor anufacturer builds the 'Movano' range of vans and ini-buses?
+Answer:vauxhall
+
+Question: In which BBC agazine style TV prograe do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective nae for a nuber of activities to search for extra-terrestrial life using scientific ethods to search for what, specifically?
+Answer:electroagnetic transissions
+
+Question: UK 1980s prie inister Margaret Thatcher's nicknae was the '(What?) Lady'?
+Answer: I' sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: m
+Similarity: 0.9169203639030457
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm for the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: sorry
+Similarity: 0.9487167000770569
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search  Extra-Terrestrial Intelligence (SETI) is the collective name  a number of activities to search  extra-terrestrial life using scientific methods to search  what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: for
+Similarity: 0.9554356932640076
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is  capital of  Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following  reign of High King Peter in  Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds  'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is  collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was  '(What?) Lady'?
+Answer: I'm sorry for mistake in my previous response. Margaret Thatcher's nickname
+Removed token: the
+Similarity: 0.9552066922187805
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the in my previous response. Margaret Thatcher's nickname
+Removed token: mistake
+Similarity: 0.9466387629508972
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia followg the reign of High Kg Peter  the Chronicles of Narnia series by C.S. Lewis?
+Answer:prce caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mi-buses?
+Answer:vauxhall
+
+Question: In which BBC magaze style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life usg scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime mister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake my previous response. Margaret Thatcher's nickname
+Removed token: in
+Similarity: 0.9559985399246216
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in previous response. Margaret Thatcher's nickname
+Removed token: my
+Similarity: 0.9560951590538025
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my response. Margaret Thatcher's nickname
+Removed token: previous
+Similarity: 0.9542309641838074
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous. Margaret Thatcher's nickname
+Removed token: response
+Similarity: 0.953066885471344
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by CS Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response Margaret Thatcher's nickname
+Removed token: .
+Similarity: 0.94917893409729
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister  Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Thatcher's nickname
+Removed token: Margaret
+Similarity: 0.9536885023117065
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret atcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaretatcher's nickname
+Removed token: Th
+Similarity: 0.9541934132575989
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Ther's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Ther's nickname
+Removed token: atch
+Similarity: 0.9552529454231262
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answ:chennai
+
+Question: Who rules Narnia following the reign of High King Pet in the Chronicles of Narnia sies by C.S. Lewis?
+Answ:prince caspian
+
+Question: Which motor manufactur builds the 'Movano' range of vans and mini-buses?
+Answ:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Bak take part?
+Answ:countryfile
+
+Question: Search for Extra-Trestrial Intelligence (SETI) is the collective name for a numb of activities to search for extra-trestrial life using scientific methods to search for what, specifically?
+Answ:electromagnetic transmissions
+
+Question: UK 1980s prime minist Margaret Thatch's nickname was the '(What?) Lady'?
+Answ: I'm sorry for the mistake in my previous response. Margaret Thatch's nickname
+Removed token: er
+Similarity: 0.9131925702095032
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the Movano range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatchers nickname was the (What?) Lady?
+Answer: Im sorry for the mistake in my previous response. Margaret Thatchers nickname
+Removed token: '
+Similarity: 0.9515935182571411
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Quetion: What i the capital of the Indian tate of Tamil Nadu?
+Anwer:chennai
+
+Quetion: Who rule Narnia following the reign of High King Peter in the Chronicle of Narnia erie by C.S. Lewi?
+Anwer:prince capian
+
+Quetion: Which motor manufacturer build the 'Movano' range of van and mini-bue?
+Anwer:vauxhall
+
+Quetion: In which BBC magazine tyle TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Anwer:countryfile
+
+Quetion: Search for Extra-Terretrial Intelligence (SETI) i the collective name for a number of activitie to earch for extra-terretrial life uing cientific method to earch for what, pecifically?
+Anwer:electromagnetic tranmiion
+
+Quetion: UK 1980 prime miniter Margaret Thatcher' nickname wa the '(What?) Lady'?
+Anwer: I'm sorry for the mistake in my previous response. Margaret Thatcher' nickname
+Removed token: s
+Similarity: 0.8935748338699341
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's name was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher'sname
+Removed token: nick
+Similarity: 0.9553089737892151
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective  for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nick was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nick
+Removed token: name
+Similarity: 0.9566620588302612
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: answer to your question is that "Vendredi" is the French word for "Fr
+Removed token: The
+Similarity: 0.9723577499389648
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The to your question is that "Vendredi" is the French word for "Fr
+Removed token: answer
+Similarity: 0.9713058471679688
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer your question is that "Vendredi" is the French word for "Fr
+Removed token: to
+Similarity: 0.9729647040367126
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to question is that "Vendredi" is the French word for "Fr
+Removed token: your
+Similarity: 0.9722426533699036
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your is that "Vendredi" is the French word for "Fr
+Removed token: question
+Similarity: 0.9724072217941284
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi  French for which day of the week?
+Answer: The answer to your question that "Vendredi" the French word for "Fr
+Removed token: is
+Similarity: 0.9682264924049377
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is "Vendredi" is the French word for "Fr
+Removed token: that
+Similarity: 0.9724453091621399
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is thatVendredi" is the French word forFr
+Removed token: "
+Similarity: 0.9734194874763489
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: endredi is French for which day of the week?
+Answer: The answer to your question is that "endredi" is the French word for "Fr
+Removed token: V
+Similarity: 0.968867301940918
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vredi is French for which day of the week?
+Answer: The answer to your question is that "Vredi" is the French word for "Fr
+Removed token: end
+Similarity: 0.9722121357917786
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendi is French for which day of the week?
+Answer: The answer to your question is that "Vendi" is the French word for "Fr
+Removed token: red
+Similarity: 0.9707105755805969
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Queston: Vendred s French for whch day of the week?
+Answer: The answer to your question is that "Vendred" is the French word for "Fr
+Removed token: i
+Similarity: 0.9070277214050293
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi is the French word for "Fr
+Removed token: "
+Similarity: 0.9726166129112244
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi  French for which day of the week?
+Answer: The answer to your question that "Vendredi" the French word for "Fr
+Removed token: is
+Similarity: 0.9682264924049377
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of  week?
+Answer: The answer to your question is that "Vendredi" is French word for "Fr
+Removed token: the
+Similarity: 0.9595466256141663
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is  for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the word for "Fr
+Removed token: French
+Similarity: 0.9659799933433533
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French for "Fr
+Removed token: word
+Similarity: 0.9724423885345459
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French  which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word "Fr
+Removed token: for
+Similarity: 0.9704651832580566
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is thatVendredi" is the French word forFr
+Removed token: "
+Similarity: 0.9734194874763489
+
+
+Original: 
+
+Question: Vendredi is French for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "Fr
+Removed: 
+
+Question: Vendredi is ench for which day of the week?
+Answer: The answer to your question is that "Vendredi" is the French word for "
+Removed token: Fr
+Similarity: 0.9336623549461365
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: , Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed token: No
+Similarity: 0.8559669852256775
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed token: ,
+Similarity: 0.9734749794006348
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister  Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed token: Margaret
+Similarity: 0.9730569124221802
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret atcher's nickname was the '(What?) Lady'?
+Answer: No, Margaretatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed token: Th
+Similarity: 0.9744890332221985
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Ther's nickname was the '(What?) Lady'?
+Answer: No, Margaret Ther's nickname during her time as Prime Minister of the United Kingdom
+Removed token: atch
+Similarity: 0.9742066264152527
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minist Margaret Thatch's nickname was the '(What?) Lady'?
+Answ: No, Margaret Thatch's nickname during her time as Prime Minister of the United Kingdom
+Removed token: er
+Similarity: 0.956418514251709
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatchers nickname was the (What?) Lady?
+Answer: No, Margaret Thatchers nickname during her time as Prime Minister of the United Kingdom
+Removed token: '
+Similarity: 0.9738818407058716
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Quetion: UK 1980 prime miniter Margaret Thatcher' nickname wa the '(What?) Lady'?
+Anwer: No, Margaret Thatcher' nickname during her time as Prime Minister of the United Kingdom
+Removed token: s
+Similarity: 0.947975754737854
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's name was the '(What?) Lady'?
+Answer: No, Margaret Thatcher'sname during her time as Prime Minister of the United Kingdom
+Removed token: nick
+Similarity: 0.9726429581642151
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nick was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nick during her time as Prime Minister of the United Kingdom
+Removed token: name
+Similarity: 0.9742068648338318
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname her time as Prime Minister of the United Kingdom
+Removed token: during
+Similarity: 0.9732505679130554
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatc's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during time as Prime Minister of the United Kingdom
+Removed token: her
+Similarity: 0.9741525650024414
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her as Prime Minister of the United Kingdom
+Removed token: time
+Similarity: 0.9737235307693481
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname w the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time Prime Minister of the United Kingdom
+Removed token: as
+Similarity: 0.966824471950531
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Minister of the United Kingdom
+Removed token: Prime
+Similarity: 0.9728124141693115
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime of the United Kingdom
+Removed token: Minister
+Similarity: 0.9736062288284302
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister the United Kingdom
+Removed token: of
+Similarity: 0.9736728072166443
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was  '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of United Kingdom
+Removed token: the
+Similarity: 0.971045196056366
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the Kingdom
+Removed token: United
+Similarity: 0.9736002683639526
+
+
+Original: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United Kingdom
+Removed: 
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: No, Margaret Thatcher's nickname during her time as Prime Minister of the United
+Removed token: Kingdom
+Similarity: 0.9735514521598816
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question:  Munnings was famous for his paintings of what?
+Answer: Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed token: Alfred
+Similarity: 0.9612970948219299
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred unnings was famous for his paintings of what?
+Answer: Alfredunnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed token: M
+Similarity: 0.9698763489723206
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Mings was famous for his paintings of what?
+Answer: Alfred Mings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed token: unn
+Similarity: 0.968549370765686
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munn was famous for his paint of what?
+Answer: Alfred Munn was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed token: ings
+Similarity: 0.9705149531364441
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings  famous for his paintings of what?
+Answer: Alfred Munnings famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed token: was
+Similarity: 0.9641565084457397
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was  for his paintings of what?
+Answer: Alfred Munnings was for his paintings of horses and scenes from rural life, particularly those dep
+Removed token: famous
+Similarity: 0.9616486430168152
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous  his paintings of what?
+Answer: Alfred Munnings was famous his paintings of horses and scenes from rural life, particularly those dep
+Removed token: for
+Similarity: 0.9667420983314514
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for  paintings of what?
+Answer: Alfred Munnings was famous for paintings of horses and scenes from rural life, particularly those dep
+Removed token: his
+Similarity: 0.9617632627487183
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his  of what?
+Answer: Alfred Munnings was famous for his of horses and scenes from rural life, particularly those dep
+Removed token: paintings
+Similarity: 0.9565339684486389
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings  what?
+Answer: Alfred Munnings was famous for his paintings horses and scenes from rural life, particularly those dep
+Removed token: of
+Similarity: 0.964539110660553
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of and scenes from rural life, particularly those dep
+Removed token: horses
+Similarity: 0.7715905904769897
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses scenes from rural life, particularly those dep
+Removed token: and
+Similarity: 0.9689598679542542
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and from rural life, particularly those dep
+Removed token: scenes
+Similarity: 0.9692729711532593
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes rural life, particularly those dep
+Removed token: from
+Similarity: 0.9699548482894897
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from life, particularly those dep
+Removed token: rural
+Similarity: 0.9010992050170898
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural, particularly those dep
+Removed token: life
+Similarity: 0.9699136018753052
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life particularly those dep
+Removed token: ,
+Similarity: 0.9709622263908386
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, those dep
+Removed token: particularly
+Similarity: 0.96640545129776
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly dep
+Removed token: those
+Similarity: 0.9713408946990967
+
+
+Original: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those dep
+Removed: 
+
+Question: Alfred Munnings was famous for his paintings of what?
+Answer: Alfred Munnings was famous for his paintings of horses and scenes from rural life, particularly those
+Removed token: dep
+Similarity: 0.9713139533996582
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed token: The
+Similarity: 0.9729468822479248
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the  Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed token: Danny
+Similarity: 0.9704965353012085
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny le biopic about a climber trapped by a boulder for more than five days?
+Answer: The Dannyle biopic you're referring to is "The Eagle Has Landed"
+Removed token: Boy
+Similarity: 0.9500521421432495
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boy biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boy biopic you're referring to is "The Eagle Has Landed"
+Removed token: le
+Similarity: 0.9721860885620117
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle opic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyleopic you're referring to is "The Eagle Has Landed"
+Removed token: bi
+Similarity: 0.9730443954467773
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle bi about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle bi you're referring to is "The Eagle Has Landed"
+Removed token: opic
+Similarity: 0.972744345664978
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic're referring to is "The Eagle Has Landed"
+Removed token: you
+Similarity: 0.9729938507080078
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic youre referring to is "The Eagle Has Landed"
+Removed token: '
+Similarity: 0.9731632471084595
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for mo than five days?
+Answer: The Danny Boyle biopic you' referring to is "The Eagle Has Landed"
+Removed token: re
+Similarity: 0.9730080366134644
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're to is "The Eagle Has Landed"
+Removed token: referring
+Similarity: 0.9719703793525696
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring is "The Eagle Has Landed"
+Removed token: to
+Similarity: 0.9730105400085449
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to "The Eagle Has Landed"
+Removed token: is
+Similarity: 0.9728920459747314
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to isThe Eagle Has Landed"
+Removed token: "
+Similarity: 0.9732969403266907
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is " Eagle Has Landed"
+Removed token: The
+Similarity: 0.9726685881614685
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "Theagle Has Landed"
+Removed token: E
+Similarity: 0.9671347737312317
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The E Has Landed"
+Removed token: agle
+Similarity: 0.8397095799446106
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Landed"
+Removed token: Has
+Similarity: 0.9690287709236145
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Hased"
+Removed token: Land
+Similarity: 0.9246995449066162
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapp by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Land"
+Removed token: ed
+Similarity: 0.9722027778625488
+
+
+Original: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed"
+Removed: 
+
+Question: Name the Danny Boyle biopic about a climber trapped by a boulder for more than five days?
+Answer: The Danny Boyle biopic you're referring to is "The Eagle Has Landed
+Removed token: "
+Similarity: 0.9732839465141296
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the city of Firenze?
+Answer: English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed token: The
+Similarity: 0.9714881777763367
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the  name of the city of Firenze?
+Answer: The name of the city of Firenze is Florence. Firenze is the Italian name
+Removed token: English
+Similarity: 0.9032685160636902
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English  of the city of Firenze?
+Answer: The English of the city of Firenze is Florence. Firenze is the Italian
+Removed token: name
+Similarity: 0.960111677646637
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name  the city  Firenze?
+Answer: The English name the city Firenze is Florence. Firenze is the Italian name
+Removed token: of
+Similarity: 0.9712018966674805
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is  English name of  city of Firenze?
+Answer: The English name of city of Firenze is Florence. Firenze is Italian name
+Removed token: the
+Similarity: 0.9597971439361572
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the  of Firenze?
+Answer: The English name of the of Firenze is Florence. Firenze is the Italian name
+Removed token: city
+Similarity: 0.9690304398536682
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name  the city  Firenze?
+Answer: The English name the city Firenze is Florence. Firenze is the Italian name
+Removed token: of
+Similarity: 0.9712018966674805
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the city of nze?
+Answer: The English name of the city ofnze is Florence.nze is the Italian name
+Removed token: Fire
+Similarity: 0.9635809063911438
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Questio: What is the Eglish ame of the city of Fireze?
+Aswer: The English name of the city of Fireze is Florence. Fireze is the Italian name
+Removed token: n
+Similarity: 0.9253926873207092
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the city of Firen?
+Answer: The English name of the city of Firen is Florence. Firen is the Italian name
+Removed token: ze
+Similarity: 0.8708000183105469
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What  the Englh name of the city of Firenze?
+Answer: The English name of the city of Firenze Florence. Firenze the Italian name
+Removed token: is
+Similarity: 0.9527947306632996
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is. Firenze is the Italian name
+Removed token: Florence
+Similarity: 0.6429770588874817
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence Firenze is the Italian name
+Removed token: .
+Similarity: 0.9720011353492737
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the city of nze?
+Answer: The English name of the city ofnze is Florence.nze is the Italian name
+Removed token: Fire
+Similarity: 0.9635809063911438
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Questio: What is the Eglish ame of the city of Fireze?
+Aswer: The English name of the city of Fireze is Florence. Fireze is the Italian name
+Removed token: n
+Similarity: 0.9253926873207092
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the city of Firen?
+Answer: The English name of the city of Firen is Florence. Firen is the Italian name
+Removed token: ze
+Similarity: 0.8708000183105469
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What  the Englh name of the city of Firenze?
+Answer: The English name of the city of Firenze Florence. Firenze the Italian name
+Removed token: is
+Similarity: 0.9527947306632996
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is  English name of  city of Firenze?
+Answer: The English name of city of Firenze is Florence. Firenze is Italian name
+Removed token: the
+Similarity: 0.9597971439361572
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the name
+Removed token: Italian
+Similarity: 0.7626042366027832
+
+
+Original: 
+
+Question: What is the English name of the city of Firenze?
+Answer: The English name of the city of Firenze is Florence. Firenze is the Italian name
+Removed: 
+
+Question: What is the English  of the city of Firenze?
+Answer: The English of the city of Firenze is Florence. Firenze is the Italian
+Removed token: name
+Similarity: 0.960111677646637
+
+

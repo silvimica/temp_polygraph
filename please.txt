@@ -1,0 +1,1600 @@
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: : Friday. The French word for Friday is "vendredi," which comes from the
+Removed token: Answer
+Similarity: 0.9504691958427429
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer Friday. The French word for Friday is "vendredi," which comes from the
+Removed token: :
+Similarity: 0.951367199420929
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer:. The French word for Friday is "vendredi," which comes from the
+Removed token: Friday
+Similarity: 0.952031672000885
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday The French word for Friday is "vendredi," which comes from the
+Removed token: .
+Similarity: 0.9522655010223389
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. French word for Friday is "vendredi," which comes from the
+Removed token: The
+Similarity: 0.9540872573852539
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The word for Friday is "vendredi," which comes from the
+Removed token: French
+Similarity: 0.9537325501441956
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French for Friday is "vendredi," which comes from the
+Removed token: word
+Similarity: 0.9532230496406555
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word Friday is "vendredi," which comes from the
+Removed token: for
+Similarity: 0.953481137752533
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for is "vendredi," which comes from the
+Removed token: Friday
+Similarity: 0.9517483115196228
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday "vendredi," which comes from the
+Removed token: is
+Similarity: 0.9530656933784485
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday isvendredi," which comes from the
+Removed token: "
+Similarity: 0.9521897435188293
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "endredi," which comes from the
+Removed token: v
+Similarity: 0.9384008049964905
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vredi," which comes from the
+Removed token: end
+Similarity: 0.9523267149925232
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendi," which comes from the
+Removed token: red
+Similarity: 0.9521031975746155
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendred," which comes from the
+Removed token: i
+Similarity: 0.9523116946220398
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi which comes from the
+Removed token: ,"
+Similarity: 0.9513627886772156
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," comes from the
+Removed token: which
+Similarity: 0.9531209468841553
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which from the
+Removed token: comes
+Similarity: 0.9524692296981812
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes the
+Removed token: from
+Similarity: 0.9498741030693054
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from the
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: Vendredi is French for which day of the week?
+Answer: Answer: Friday. The French word for Friday is "vendredi," which comes from
+Removed token: the
+Similarity: 0.9549369215965271
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: 'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: I
+Similarity: 0.9558227062225342
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: Im sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: '
+Similarity: 0.9543821811676025
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I' sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: m
+Similarity: 0.9553532004356384
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm for the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: sorry
+Similarity: 0.9487167000770569
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry the mistake in my previous response. Margaret Thatcher's nickname
+Removed token: for
+Similarity: 0.9565162062644958
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for mistake in my previous response. Margaret Thatcher's nickname
+Removed token: the
+Similarity: 0.9563840627670288
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the in my previous response. Margaret Thatcher's nickname
+Removed token: mistake
+Similarity: 0.9466387629508972
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake my previous response. Margaret Thatcher's nickname
+Removed token: in
+Similarity: 0.9563869833946228
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in previous response. Margaret Thatcher's nickname
+Removed token: my
+Similarity: 0.9560951590538025
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my response. Margaret Thatcher's nickname
+Removed token: previous
+Similarity: 0.9542309641838074
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous. Margaret Thatcher's nickname
+Removed token: response
+Similarity: 0.953066885471344
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response Margaret Thatcher's nickname
+Removed token: .
+Similarity: 0.9562336802482605
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Thatcher's nickname
+Removed token: Margaret
+Similarity: 0.9548370242118835
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaretatcher's nickname
+Removed token: Th
+Similarity: 0.9557002186775208
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Ther's nickname
+Removed token: atch
+Similarity: 0.9555149078369141
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatch's nickname
+Removed token: er
+Similarity: 0.9553175568580627
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatchers nickname
+Removed token: '
+Similarity: 0.9556282758712769
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher' nickname
+Removed token: s
+Similarity: 0.9564692974090576
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher'sname
+Removed token: nick
+Similarity: 0.955746591091156
+
+
+Original: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nickname
+Removed: 
+Question: What is the capital of the Indian state of Tamil Nadu?
+Answer:chennai
+
+Question: Who rules Narnia following the reign of High King Peter in the Chronicles of Narnia series by C.S. Lewis?
+Answer:prince caspian
+
+Question: Which motor manufacturer builds the 'Movano' range of vans and mini-buses?
+Answer:vauxhall
+
+Question: In which BBC magazine style TV programme do John Craven, Julia Bradbury and Matt Baker take part?
+Answer:countryfile
+
+Question: Search for Extra-Terrestrial Intelligence (SETI) is the collective name for a number of activities to search for extra-terrestrial life using scientific methods to search for what, specifically?
+Answer:electromagnetic transmissions
+
+Question: UK 1980s prime minister Margaret Thatcher's nickname was the '(What?) Lady'?
+Answer: I'm sorry for the mistake in my previous response. Margaret Thatcher's nick
+Removed token: name
+Similarity: 0.9566482305526733
+
+

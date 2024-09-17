@@ -199,12 +199,12 @@ class EmbeddingsCalculator(StatCalculator):
 
         if model.model_type == "CausalLM":
             return {
-                "embeddings_decoder": embeddings_decoder.cpu().detach().numpy(),
+                "embeddings_decoder": embeddings_decoder.cpu().to(dtype=torch.float32).detach().numpy(),
             }
         elif model.model_type == "Seq2SeqLM":
             return {
-                "embeddings_encoder": embeddings_encoder.cpu().detach().numpy(),
-                "embeddings_decoder": embeddings_decoder.cpu().detach().numpy(),
+                "embeddings_encoder": embeddings_encoder.cpu().to(dtype=torch.float32).detach().numpy(),
+                "embeddings_decoder": embeddings_decoder.cpu().to(dtype=torch.float32).detach().numpy(),
             }
         else:
             raise NotImplementedError

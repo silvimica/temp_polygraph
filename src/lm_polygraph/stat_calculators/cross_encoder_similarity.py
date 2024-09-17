@@ -1,11 +1,19 @@
 import numpy as np
-
+import pandas as pd 
 import itertools
 from typing import Dict, List
 
 from .stat_calculator import StatCalculator
 from sentence_transformers import CrossEncoder
 from lm_polygraph.utils.model import WhiteboxModel
+
+from datetime import datetime
+
+# Get the current date and time
+current_datetime = datetime.now()
+
+# Format the date and time for the file name (e.g., "2024-09-15_14-30-00")
+formatted_datetime = current_datetime.strftime('%Y-%m-%d_%H-%M-%S')
 
 
 class CrossEncoderSimilarityMatrixCalculator(StatCalculator):
@@ -73,23 +81,45 @@ class CrossEncoderSimilarityMatrixCalculator(StatCalculator):
                 cropped_tokens = list(itertools.combinations(tokens, len(tokens) - 1))[
                     ::-1
                 ]
+
+                removed_tokens = []
+
+                for i in range(len(cropped_tokens)):
+                    cropped_list = list(cropped_tokens[i])
+                    removed_token = [token for i, token in enumerate(tokens) if i >= len(cropped_list) or tokens[i] != cropped_list[i]][0]
+                    cropped_all = [x for x in cropped_tokens[i] if x != removed_token]
+                    cropped_tokens[i] = cropped_all
+                    removed_tokens.append(removed_token)
+#               
+
+                # removed_tokens = [tokenizer.decode([token]) for token in removed_tokens]
+
+
+
                 raw_text = (
                     input_texts
-                    + " "
-                    + tokenizer.decode(tokens, skip_special_tokens=True)
+                    + " " +
+                    tokenizer.decode(tokens, skip_special_tokens=True)
                 )
                 batches = [
                     (
                         raw_text,
-                        input_texts
-                        + " "
-                        + tokenizer.decode(list(t), skip_special_tokens=True),
+                        input_texts # tokenizer.decode([token for token in tokenizer([input_texts])["input_ids"][0] if token != removed_token_text]) # .replace(removed_token_text, '')
+                        + " " + 
+                        tokenizer.decode(list(t), skip_special_tokens=True),
                     )
-                    for t in cropped_tokens
+                    for t , removed_token_text in zip(cropped_tokens, removed_tokens )
                 ]
                 token_scores = self.crossencoder.predict(
                     batches, batch_size=deberta_batch_size
                 )
+                
+                with open(f'{formatted_datetime}.txt', 'a+') as f:
+                    for i in range(len(batches)):
+                        f.write( f"Original: \n{batches[i][0]}\nRemoved: \n{batches[i][1]}\nRemoved token: {tokenizer.decode([removed_tokens[i]])}\nSimilarity: {token_scores[i]}\n\n\n" ) 
+                        new_data = {'Removed token': [tokenizer.decode([removed_tokens[i]])], 'Context:': [batches[i][0]], 'Similarity': [token_scores[i]]}
+                        new_df = pd.DataFrame(new_data)
+                        new_df.to_csv(f'{formatted_datetime}.csv', mode='a',header=False, index=False)
                 token_scores[is_special_tokens] = 1
             else:
                 token_scores = np.array([0.5] * len(tokens))
@@ -105,6 +135,8 @@ class CrossEncoderSimilarityMatrixCalculator(StatCalculator):
 
             # Recover full matrices from unques by gathering along both axes
             # using inverse index
+            # for pair, score in zip(pairs, sim_scores):
+            #     print(f"Comparing sentences: '{pair[0]}' and '{pair[1]}'. Similarity Score: {score}")
             sim_matrices.append(sim_scores_matrix[inv, :][:, inv])
         sim_matrices = np.stack(sim_matrices)
 

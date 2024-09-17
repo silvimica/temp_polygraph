@@ -113,7 +113,7 @@ class RDESeq(Estimator):
             self.is_fitted = True
 
         # transform test data based on pca
-        X_pca_test = self.pca.transform(embeddings)
+        X_pca_test = self.pca.transform(embeddings.to(dtype=torch.float32))
 
         # compute MD in space of reduced dimensionality
         dists = self.MCD.mahalanobis(X_pca_test)

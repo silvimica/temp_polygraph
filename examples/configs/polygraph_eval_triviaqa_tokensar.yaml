@@ -52,9 +52,44 @@ additional_estimators:
   - module: lm_polygraph.estimators.token_sar
     class_name: TokenSAR
     kwargs: {}
+  - module: lm_polygraph.estimators.token_sar_non_normalized
+    class_name: TokenSAR_NN
+    kwargs: {}
+  - module: lm_polygraph.estimators.token_sar_softmax
+    class_name: TokenSAR_softmax 
+    kwargs: 
+      temperature: 0.01
+  - module: lm_polygraph.estimators.token_sar_softmax
+    class_name: TokenSAR_softmax 
+    kwargs: 
+      temperature: 0.1
+  - module: lm_polygraph.estimators.token_sar_softmax
+    class_name: TokenSAR_softmax  
+    kwargs: 
+      temperature: 1
+  - module: lm_polygraph.estimators.token_sar_softmax
+    class_name: TokenSAR_softmax 
+    kwargs: 
+      temperature: 10
+  - module: lm_polygraph.estimators.token_sar_softmax
+    class_name: TokenSAR_softmax  
+    kwargs:
+      temperature: 100
+  - module: lm_polygraph.estimators.max_probability
+    class_name: MaximumTokenProbability  
+    kwargs: {}
+  - module: lm_polygraph.estimators.perplexity
+    class_name: Perplexity  
+    kwargs: {}
+  - module: lm_polygraph.estimators.max_probability
+    class_name: MaximumSequenceProbability  
+    kwargs: {}
 
-additional_estimators: 
+
 ignore_exceptions: false
+
+# additional_estimators: 
+#   ignore_exceptions: false
 
 batch_size: 1
 deberta_batch_size: 10
